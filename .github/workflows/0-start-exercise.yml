@@ -21,7 +21,7 @@ jobs:
     uses: skills/exercise-toolkit/.github/workflows/start-exercise.yml@v0.8.1
     with:
       exercise-title: "Taller de Git y GitHub — UTP Panamá"
-      intro-message: "¡Bienvenido/a al taller! Aprenderás el flujo real de colaboración con Git y GitHub: fork → clone → branch → commit → push → Pull Request. ¡Tu tarjeta de perfil aparecerá en el sitio del taller! 🚀"
+      intro-message: "¡Bienvenido/a al taller! Aprenderás el flujo real de colaboración con Git y GitHub — fork → clone → branch → commit → push → Pull Request. ¡Tu tarjeta de perfil aparecerá en el sitio del taller! 🚀"
 
   post_next_step_content:
     name: Publicar instrucciones del Paso 1
